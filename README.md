@@ -132,20 +132,6 @@ Defensive scripting
 Docker-based lab isolation
 Safe cybersecurity lab design
 The importance of testing security controls in controlled environments
-Future Improvements
-
-## Future improvements could include:
-
-Renaming the folders to follow cleaner GitHub naming conventions
-Removing the original ZIP file after confirming all files are extracted and organized
-Adding automated logging for each detection event
-Creating a dashboard for attack and mitigation status
-Adding alert notifications
-Expanding detection rules for different traffic patterns
-Adding more detailed traffic analysis
-Improving Docker Compose support for easier lab setup
-Adding sample logs and screenshots for each scenario
-Creating a full setup guide for recreating the lab environment
 
 ## Disclaimer
 
