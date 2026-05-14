@@ -109,16 +109,14 @@ Key concepts demonstrated:
 
 ```text
 CS-DoS-Code/
-├── attacks/
-│   ├── syn_flood/
-│   ├── cpu_exhaustion/
-│   ├── slowloris/
-│   └── fork_bomb/
-├── mitigations/
-│   ├── syn_flood_mitigation/
-│   ├── cpu_exhaustion_mitigation/
-│   ├── slowloris_mitigation/
-│   └── fork_bomb_mitigation/
-├── docs/
-├── screenshots/
+├── Attack/
+│   └── Attack scripts for each denial-of-service scenario
+├── Docker/
+│   └── Docker files for the Slowloris and Fork Bomb scenarios
+├── Individual README's/
+│   └── Scenario-specific README files and documentation
+├── Mitigation/
+│   └── Mitigation scripts and defensive responses
+├── projectGroup7_codes.zip
+│   └── Original packaged project files
 └── README.md
